@@ -1,0 +1,5 @@
+ColumnLimit: 112
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: MultiLine
